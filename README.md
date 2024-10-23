@@ -3,4 +3,4 @@
 #### Um relógio digital em tempo real 
 #### Techs usadas: CSS, JAVASCRIPT e HTML
 
-#### Veja em: <a href=''>RELÓGIO</a> 
+#### Veja em: <a href='https://dionizioji.github.io/Relogio_Digital/'>RELÓGIO</a> 
