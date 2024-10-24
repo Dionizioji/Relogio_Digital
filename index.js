@@ -1,5 +1,6 @@
 
-//Relógio Digital - Dionízio
+//Relógio Digital - Dionízio:
+
 function myWatch(){
     let hour = new Date().getHours()
     let minute = new Date().getMinutes()
